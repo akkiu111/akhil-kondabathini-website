@@ -127,11 +127,39 @@ const Timeline = () => {
         <div className="timeline-block timeline-block-right">
           <div className="marker"></div>
           <div className="timeline-content">
-            <h3>2021-present</h3>
+            <h3>2021-2022</h3>
             <p>
               Started Working remotely as Staff Software Engineer at National
-              Instruments from July 2021.
+              Instruments and then contracted through SpanIdea Systems. Upgraded  
+              RFmx API Code and Document Generation tools in C# 
+              from July 2021 to January 2022 .
             </p>
+          </div>
+        </div>
+
+        <div className="timeline-block timeline-block-left">
+          <div className="marker"></div>
+          <div className="timeline-content">
+            <h3>2022-2022</h3>
+            <p>
+              Worked at Exxon Mobil Contract through VCIT Solutions as Software Developer (Remote), Developing API’s using C#, 
+              .NET and Front end using Angular and react and Using Azure DevOps for agile and CI/CD and Azure for different
+               environments of development, acceptance, production from January 2022 to June 2022.
+            </p>
+          </div>
+        </div>
+
+         <div className="timeline-block timeline-block-right">
+          <div className="marker"></div>
+          <div className="timeline-content">
+            <h3>2022-present</h3>
+            <p>
+              Started Working as an Associate Software Engineer at Goldman Sachs in Dallas, Texas. from July 2022. Responsibilities include
+              Creating new workflow processes within Fund space to help onboard new fund launches like GS Public Funds,State education funds,
+              S&P 500 Buffered funds. Processing GS public funds’ performance data from various upstreams such as MorningStar, Lipper etc, and 
+              generating Monthly and Daily JSON’s to display on GSAM.com.Enhancing Internal tools for optimal performances 
+              which reduces the workload for the users. 
+            </p>        
           </div>
         </div>
       </div>
