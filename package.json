@@ -54,5 +54,9 @@
   },
   "devDependencies": {
     "gh-pages": "^3.2.3"
-  }
+  },
+  "description": "Please visit the below website link.",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC"
 }
