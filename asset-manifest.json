@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/akhil-kondabathini-website/static/css/main.9deffb13.chunk.css",
+    "main.js": "/akhil-kondabathini-website/static/js/main.7a10be36.chunk.js",
+    "main.js.map": "/akhil-kondabathini-website/static/js/main.7a10be36.chunk.js.map",
+    "runtime-main.js": "/akhil-kondabathini-website/static/js/runtime-main.14451ac9.js",
+    "runtime-main.js.map": "/akhil-kondabathini-website/static/js/runtime-main.14451ac9.js.map",
+    "static/css/2.fccdd612.chunk.css": "/akhil-kondabathini-website/static/css/2.fccdd612.chunk.css",
+    "static/js/2.34d35dda.chunk.js": "/akhil-kondabathini-website/static/js/2.34d35dda.chunk.js",
+    "static/js/2.34d35dda.chunk.js.map": "/akhil-kondabathini-website/static/js/2.34d35dda.chunk.js.map",
+    "static/js/3.cc1ff280.chunk.js": "/akhil-kondabathini-website/static/js/3.cc1ff280.chunk.js",
+    "static/js/3.cc1ff280.chunk.js.map": "/akhil-kondabathini-website/static/js/3.cc1ff280.chunk.js.map",
+    "index.html": "/akhil-kondabathini-website/index.html",
+    "static/css/2.fccdd612.chunk.css.map": "/akhil-kondabathini-website/static/css/2.fccdd612.chunk.css.map",
+    "static/css/main.9deffb13.chunk.css.map": "/akhil-kondabathini-website/static/css/main.9deffb13.chunk.css.map",
+    "static/js/2.34d35dda.chunk.js.LICENSE.txt": "/akhil-kondabathini-website/static/js/2.34d35dda.chunk.js.LICENSE.txt",
+    "static/media/mdb.css": "/akhil-kondabathini-website/static/media/arrow_right.0897f985.svg",
+    "static/media/App.css": "/akhil-kondabathini-website/static/media/mybackground.b18fd445.jpg",
+    "static/media/mydisplaypic.52abda2d.jpeg": "/akhil-kondabathini-website/static/media/mydisplaypic.52abda2d.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.14451ac9.js",
+    "static/css/2.fccdd612.chunk.css",
+    "static/js/2.34d35dda.chunk.js",
+    "static/css/main.9deffb13.chunk.css",
+    "static/js/main.7a10be36.chunk.js"
+  ]
+}
